@@ -1,0 +1,6 @@
+c:\users\pareeka2\documents\visual studio 2015\Projects\ClientPipeComm\ClientPipeComm\bin\Debug\ClientPipeComm.exe.config
+c:\users\pareeka2\documents\visual studio 2015\Projects\ClientPipeComm\ClientPipeComm\obj\Debug\ClientPipeComm.csprojResolveAssemblyReference.cache
+c:\users\pareeka2\documents\visual studio 2015\Projects\ClientPipeComm\ClientPipeComm\bin\Debug\ClientPipeComm.exe
+c:\users\pareeka2\documents\visual studio 2015\Projects\ClientPipeComm\ClientPipeComm\bin\Debug\ClientPipeComm.pdb
+c:\users\pareeka2\documents\visual studio 2015\Projects\ClientPipeComm\ClientPipeComm\obj\Debug\ClientPipeComm.exe
+c:\users\pareeka2\documents\visual studio 2015\Projects\ClientPipeComm\ClientPipeComm\obj\Debug\ClientPipeComm.pdb

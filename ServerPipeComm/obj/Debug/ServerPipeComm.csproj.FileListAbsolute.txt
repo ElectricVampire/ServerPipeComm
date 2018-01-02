@@ -1,0 +1,11 @@
+c:\users\pareeka2\documents\visual studio 2015\Projects\ClientPipeComm\ClientPipeComm\bin\Debug\ClientPipeComm.exe.config
+c:\users\pareeka2\documents\visual studio 2015\Projects\ClientPipeComm\ClientPipeComm\bin\Debug\ClientPipeComm.exe
+c:\users\pareeka2\documents\visual studio 2015\Projects\ClientPipeComm\ClientPipeComm\bin\Debug\ClientPipeComm.pdb
+c:\users\pareeka2\documents\visual studio 2015\Projects\ClientPipeComm\ClientPipeComm\obj\Debug\ClientPipeComm.exe
+c:\users\pareeka2\documents\visual studio 2015\Projects\ClientPipeComm\ClientPipeComm\obj\Debug\ClientPipeComm.pdb
+C:\Users\pareeka2\Documents\visual studio 2015\Projects\ServerPipeComm\ServerPipeComm\bin\Debug\ServerPipeComm.exe.config
+C:\Users\pareeka2\Documents\visual studio 2015\Projects\ServerPipeComm\ServerPipeComm\bin\Debug\ServerPipeComm.exe
+C:\Users\pareeka2\Documents\visual studio 2015\Projects\ServerPipeComm\ServerPipeComm\bin\Debug\ServerPipeComm.pdb
+C:\Users\pareeka2\Documents\visual studio 2015\Projects\ServerPipeComm\ServerPipeComm\obj\Debug\ServerPipeComm.csprojResolveAssemblyReference.cache
+C:\Users\pareeka2\Documents\visual studio 2015\Projects\ServerPipeComm\ServerPipeComm\obj\Debug\ServerPipeComm.exe
+C:\Users\pareeka2\Documents\visual studio 2015\Projects\ServerPipeComm\ServerPipeComm\obj\Debug\ServerPipeComm.pdb
